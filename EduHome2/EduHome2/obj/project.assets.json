@@ -7464,11 +7464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\C# B_C\\EduHome2\\EduHome2\\EduHome2.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\EduHomeGtb\\EduHome\\EduHome2\\EduHome2\\EduHome2.csproj",
       "projectName": "EduHome2",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\C# B_C\\EduHome2\\EduHome2\\EduHome2.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\EduHomeGtb\\EduHome\\EduHome2\\EduHome2\\EduHome2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\C# B_C\\EduHome2\\EduHome2\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\EduHomeGtb\\EduHome\\EduHome2\\EduHome2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
